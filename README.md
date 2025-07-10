@@ -1,0 +1,3 @@
+# Text Preprocessing | Sentiment Analysis #1
+
+This is a coding project that serves as a learning activity on understanding text preprocessing and sentiment analysis. The dataset used is a labeled financial text data (structured for sentiment analysis) where the "Sentence" column corresponds to the text and the "Sentiment" column represents the sentiment label each text corresponds to. Furthermore, the dataset was locally sourced, therefore it is only accessible from this code repository.
